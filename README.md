@@ -41,6 +41,7 @@ During the exploratoy data analysis the CEO requested informations should be del
 **3** The number of seaside houses is 163.
 
 **3** The number of houses with more than 300 square meters for the living room and more than 2 bathrooms is 11242.
+
 **4** Most expensive studio house: $1247000.0
 
 **5** Assumption: Propertie with 33 bedrooms  with priced at $640.000.00 is an outlier.
