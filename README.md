@@ -18,7 +18,7 @@ A table view with attributes filters.
 
 Descriptive analysis.
 
-Check the dashboard result bellow:
+Check out bellow the dashboard result:
 
 https://analytics-house-rc.herokuapp.com/
 
