@@ -23,11 +23,17 @@ Check out bellow the dashboard result:
 https://analytics-house-rc.herokuapp.com/
 
 # Solution Strategy
+
 - Understanding the business problem
+- 
 - Data Description
+- 
 - Data Filtering
+- 
 - Feature Engineering
+- 
 - Dashboard with Streamlit
+- 
 - Deploy on Heroku
 
 # Business Results
