@@ -6,7 +6,7 @@ This project is fictial  and contains house sale prices for King County, which i
 **data from Kaggle**: https://www.kaggle.com/harlfoxem/housesalesprediction
 
 # Business Problem
-House Rocket negociate properties through a digital platform. The CEO's demand is that the Data Analyst develop an online dashboard where he can have an overview of properties available for purchase and be part of House Rocket portfolio, resulting in an increase in profit with future negotiations.
+House Rocket negociate properties through a digital platform. The CEO's demand is that the Data Analyst develop an online dashboard where he can have an overview of properties available for purchase and be part of House Rocket portfolio, resulting in increased in profit with future negotiations.
 
 The dashboard must contain:
 
