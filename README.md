@@ -1,6 +1,6 @@
 # House Rocket portfolio in King County (USA).
 
-Project from Data Science Community, mentoring by Meigarom Lopes. This repository contains scripts from an Insights project delivered to House Rocket, a company that seeks to increase profit by trading real state.
+Project from Data Science Community, mentoring by Meigarom Lopes. This repository contains scripts from an Insights project delivered to House Rocket, a company that seeks to increase profit by trading real state. **status: on going**
 
 This project is fictial  and contains house sale prices for King County, which includes Seattle. 
 **data from Kaggle**: https://www.kaggle.com/harlfoxem/housesalesprediction
